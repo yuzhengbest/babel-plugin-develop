@@ -7,7 +7,7 @@
 
 #### 下载和运行
 ```shell
-git clone https://github.com/QuarkGluonPlasma/babel-plugin-exercize
+git clone https://github.com/yuzhengbest/babel-plugin-develop.git
 
 node ./auto-track/src/index.js （或其他案例路径）
 ```
